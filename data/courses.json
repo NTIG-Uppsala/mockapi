@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "name": "Webbserverprogrammering"
+    },
+    {
+        "id": 2,
+        "name": "Webbutveckling 2"
+    },
+    {
+        "id": 3,
+        "name": "Svenska"
+    },
+    {
+        "id": 4,
+        "name": "Matematik"
+    },
+    {
+        "id": 5,
+        "name": "Engelska"
+    }
+]
